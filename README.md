@@ -25,7 +25,7 @@ Let's connect, create, and make something awesome together!
 * 🌍  I'm based in Halifax, NS, Canada
 * 🖥️  See my portfolio at [My Website](http://bhishman.vercel.app/)
 * ✉️  You can contact me at [desaibhishman1@gmail.com](mailto:desaibhishman1@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Next JS and Unreal Engine
 
 ### Skills
 
@@ -69,11 +69,7 @@ Let's connect, create, and make something awesome together!
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/bhishman_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/bhishman_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 <!--
 **bhishman-desai/bhishman-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
